@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "nama": "Beasiswa Prestasi Akademik",
+    "deskripsi": "Beasiswa untuk mahasiswa dengan prestasi akademik tinggi",
+    "kuota": 10,
+    "minIpk": 3.5,
+    "tanggalBuka": "2025-01-01T00:00:00.000Z",
+    "tanggalTutup": "2025-06-30T23:59:59.000Z",
+    "status": "aktif",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "nama": "Beasiswa Peningkatan Prestasi Akademik",
+    "deskripsi": "Beasiswa untuk mahasiswa yang menunjukkan peningkatan prestasi akademik",
+    "kuota": 5,
+    "minIpk": 3,
+    "tanggalBuka": "2025-02-01T00:00:00.000Z",
+    "tanggalTutup": "2025-03-31T23:59:59.000Z",
+    "status": "aktif",
+    "createdAt": "2025-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "nama": "Beasiswa Mahasiswa Berprestasi",
+    "deskripsi": "Beasiswa untuk mahasiswa dengan prestasi di bidang akademik dan non-akademik",
+    "kuota": 7,
+    "minIpk": 3.25,
+    "tanggalBuka": "2025-03-01T00:00:00.000Z",
+    "tanggalTutup": "2025-04-30T23:59:59.000Z",
+    "status": "aktif",
+    "createdAt": "2025-02-01T00:00:00.000Z"
+  }
+]

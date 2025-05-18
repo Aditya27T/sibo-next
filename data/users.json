@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Admin Sistem",
+    "email": "admin@sibo.ac.id",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Budi Santoso",
+    "email": "budi@student.ac.id",
+    "password": "mahasiswa123",
+    "nim": "M123456",
+    "role": "mahasiswa",
+    "fakultas": "Teknik",
+    "jurusan": "Informatika",
+    "tahunMasuk": "2023",
+    "createdAt": "2025-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Siti Aminah",
+    "email": "siti@student.ac.id",
+    "password": "mahasiswa123",
+    "nim": "M789012",
+    "role": "mahasiswa",
+    "fakultas": "Ekonomi",
+    "jurusan": "Manajemen",
+    "tahunMasuk": "2024",
+    "createdAt": "2025-01-03T00:00:00.000Z"
+  }
+]
